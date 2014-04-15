@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  artist: 
+  description: 
+  price_low: 
+  price_high: 
+  event_date: 2014-04-14
+
+two:
+  artist: 
+  description: 
+  price_low: 
+  price_high: 
+  event_date: 2014-04-14
